@@ -1,0 +1,17 @@
+# cache
+*temp*
+data/cache/*
+src/worker_calc/__init__.py
+
+# local source
+pak/*
+
+# python
+env
+__pycache__
+
+# OS
+.DS_Store
+
+# gitkeep
+!*.gitkeep

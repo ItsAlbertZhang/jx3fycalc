@@ -1,0 +1,22 @@
+{
+    "KungFuID": 17,
+    "KungFuSkill": { "SkillID": 10242, "Level": 13, "name": "焚影圣诀" },
+    "skill": [
+        { "SkillID": 4326, "Level": 1, "name": "大漠刀法" },
+        { "SkillID": 3962, "Level": 33, "name": "赤日轮" },
+        { "SkillID": 3963, "Level": 32, "name": "烈日斩" },
+        { "SkillID": 3966, "Level": 1, "name": "生死劫" },
+        { "SkillID": 3967, "Level": 32, "name": "净世破魔击" },
+        { "SkillID": 22890, "Level": 1, "name": "诛邪镇魔" },
+        { "SkillID": 3959, "Level": 24, "name": "幽月轮" },
+        { "SkillID": 3960, "Level": 18, "name": "银月斩" },
+        { "SkillID": 3973, "Level": 6, "name": "贪魔体" },
+        { "SkillID": 3970, "Level": 1, "name": "幻光步" },
+        { "SkillID": 3969, "Level": 1, "name": "光明相" },
+        { "SkillID": 3974, "Level": 1, "name": "暗尘弥散" },
+        { "SkillID": 3979, "Level": 29, "name": "驱夜断愁" },
+        { "SkillID": 3977, "Level": 1, "name": "流光囚影" },
+        { "SkillID": 4910, "Level": 1, "name": "无名魂锁" },
+        { "SkillID": 3975, "Level": 1, "name": "怖畏暗刑" }
+    ]
+}
